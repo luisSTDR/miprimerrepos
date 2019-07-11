@@ -1,6 +1,8 @@
 Bienvenido a mi primer repositorio Git
 Todo el código aquí presente es de libre uso y distribución
 
+Excepto My Little Repository, marca comercial de Fisher-Price.
+
 Un saludo y buenos días
 
 Luis
